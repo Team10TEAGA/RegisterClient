@@ -1,0 +1,2 @@
+I have no idea what I'm doing, but this is a commit of any size as specified. I tried to upload the Android Studio project, but it made a new repository rather than finding the existing one, I'll most likely be stopping by Dr. Phillips office hours to get this straightened out.
+-Edward Leonard
