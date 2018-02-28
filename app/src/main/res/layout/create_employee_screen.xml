@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="First Name" />
+        android:text="@string/first_name" />
 
     <EditText
         android:id="@+id/editText2"
@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Last Name" />
+        android:text="@string/last_name" />
 
     <EditText
         android:id="@+id/editText3"
@@ -25,5 +25,5 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPassword"
-        android:text="Password" />
+        android:text="@string/password_holder" />
 </LinearLayout>
