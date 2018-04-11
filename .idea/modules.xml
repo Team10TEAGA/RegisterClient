@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RegisterClient.iml" filepath="$PROJECT_DIR$/RegisterClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactionpage/transactionpage.iml" filepath="$PROJECT_DIR$/transactionpage/transactionpage.iml" />
     </modules>
   </component>
 </project>
